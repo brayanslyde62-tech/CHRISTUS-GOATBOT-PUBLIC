@@ -27,7 +27,7 @@ module.exports = {
           "   ↪ Refresh prefix cache for this chat\n" +
           "╰‣ Just type: prefix\n" +
           "   ↪ Shows current prefix info\n" +
-          "🤖 I'm Christus🫴, ready to help!"
+          "🤖 I'm ヾ. ටිeth bot ぐさ, ready to help!"
     }
   },
 
