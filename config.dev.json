@@ -16,13 +16,13 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "creator": ["61593973733107"],
-  "developer": ["61593973733107"],
-  "adminBot": ["61593973733107"],
-  "premium": ["61593973733107"],
-  "vipuser": ["61593973733107"],
-  "premiumUsers": ["61593973733107"],
-  "devUsers": ["61593973733107"],
+  "creator": ["61593915599298"],
+  "developer": ["61593915599298"],
+  "adminBot": ["61593915599298"],
+  "premium": ["61593915599298"],
+  "vipuser": ["61593915599298"],
+  "premiumUsers": ["61593915599298"],
+  "devUsers": ["61593915599298"],
   "developerOnly": {
     "enable": false,
     "ignoreCommand": []
@@ -37,10 +37,10 @@
   },
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [61593973733107],
+    "whiteListIds": [61593915599298],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🧛Ｓｅｔｈｃｕｌａ💜🪽",
+  "nickNameBot": "🧛Ｓｅｔｈｃｕｌａ (⁠⌐⁠■⁠-⁠■⁠)",
   "prefix": "∆",
   "noPrefix": true,
   "database": {
